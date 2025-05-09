@@ -60,6 +60,6 @@ Tekan tombol reset untuk mengembalikan gambar ke kondisi awal.
 Fitur Tambahan
 Animasi dan Transisi: Aplikasi menggunakan animasi dan transisi halus untuk interaksi pengguna, seperti tombol hover dan efek pemuatan gambar.
 
-Desain Minimalis dan Modern: Menggunakan palet warna yang bersih dan sederhana dengan penggunaan warna hijau sebagai aksen utama.
+Desain Minimalis dan Modern: Menggunakan palet warna yang bersih dan sederhana dengan penggunaan warna biru sebagai aksen utama.
 
 Kontribusi
